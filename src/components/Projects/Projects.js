@@ -28,6 +28,7 @@ function Projects() {
               title="Purplle-Website-Clone"
               description="This is clone of purplle.com, where we have used HTML, CSS and Javascript to acheive this. In this project we have tried to clone the “Purplle” website. We had build up all our efforts to do our best in this project. As, the Masai School's Mentorship was specifically to build up our skills and we also accordingly implemented all that teachings in our project to look it at its best."
               link="https://github.com/Duwesh/Purplle.com_web_clone"
+              site="https://purplle.vercel.app/"
             />
           </Col>
 
@@ -38,6 +39,7 @@ function Projects() {
               title="Marriott_Bonvoy_clone"
               description="Marriott Bonvoy is a hotel, resort, and accommodation booking website. This was a collaborative project built by 5 members of the team and executed in 5 days.Our task was to implement our HTML, CSS, and Advanced JavaScript knowledge which we had learned at Masai. We used this skillset to build a static copy of Marriott Bonvoy along with the responsiveness of the page for different screen sizes and some user interactivity with Advanced JS."
               link="https://github.com/AmbaliyaDhruv/Marriott_Bonvoy_clone.github.io"
+              site="https://masai-marriott-com.vercel.app/"
             />
           </Col>
 
