@@ -58,6 +58,59 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
+    
+    
+        <Row>
+          <Col md={8} className="home-about-description">
+            <h1 style={{ fontSize: "2.6em" }}>
+              ABOUT MY <span className="purple">EDUCATION </span>
+            </h1>
+            <h2 className="home-about-body">
+         
+            <i>
+              <b className="purple">Intermediate</b>&nbsp;
+              June 2015 - Sept 2017
+              </i>
+              <br />
+               Board of High School and Intermediate Education Uttar Pradesh
+              <br />
+              <br />I complete my Intermediate with first devision with subject
+              <i>
+                <b className="purple">English, Geography,Economics,Social Science,Hindi</b>
+              </i>
+              <br />
+              <br />
+
+              <i>
+              <b className="purple">Graduation BA</b>&nbsp;
+              Sept 2017 - Sept 2020
+              </i>
+              <br />
+              Chhatrapati Shahu Ji Maharaj University ,Kanpur
+              <br />
+              <br />I complete my Graduation BA with bachelor of Art in 
+              <i>
+                <b className="purple">English literature, Geography,Hindi</b>
+              </i>
+              <br />
+              <br />
+
+              and recently i joined Masai School 30 week full stack web Development programme
+           
+            </h2>
+          </Col>
+          <Col md={4} className="myAvtar">
+            <Tilt>
+              <img src="https://cdn.dribbble.com/users/1233499/screenshots/3900568/education.gif" className="img-fluid" alt="avatar" />
+            </Tilt>
+          </Col>
+       
+          </Row>
+
+
+
+
+
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
