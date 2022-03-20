@@ -33,14 +33,14 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Web Development using ,HTML,CSS,Javascript and  Modern Javascript Library and Frameworks, React.js,
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
+              Whenever possible, I also apply my passion for 
+               <b className="purple">Learning data structures and algorithms allow us to write efficient and optimized computer programs.</b>
+              {/* <i>
                 <b className="purple">
                   {" "}
                   Modern Javascript Library and Frameworks
@@ -49,7 +49,7 @@ function Home2() {
               &nbsp; like
               <i>
                 <b className="purple"> React.js</b>
-              </i>
+              </i> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
