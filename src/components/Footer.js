@@ -15,13 +15,13 @@ function Footer() {
       <Row>
         <Col md="4" className="footer-copywright">
           <h3>Designed and Developed by Shailendra kumar</h3>
-          <h3>Mobile :- 7518034435</h3>
+        
         
 
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} SK</h3>
-          <h3>Email :- shailendraftp0001@gmail.com</h3>
+        
         </Col>
        
         <Col md="4" className="footer-body">

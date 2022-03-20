@@ -12,6 +12,7 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiFillPhone
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
@@ -66,6 +67,16 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/contact"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiFillPhone style={{ marginBottom: "2px" }} /> Contact
               </Nav.Link>
             </Nav.Item>
 

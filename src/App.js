@@ -15,6 +15,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { Contact } from "./components/contact/Contact.jsx";
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -38,6 +39,7 @@ function App() {
           <Route path="/project" exact element={<Projects />} />
           <Route path="/about" exact element={<About />} />
           <Route path="/resume" exact element={<Resume />} />
+          <Route path="/contact" exact element={<Contact/>}/>
           <Route path="*" element={<Home />} />
         </Routes>
         <Footer />
