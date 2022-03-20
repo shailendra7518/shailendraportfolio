@@ -22,7 +22,7 @@
    align-content: center;
    align-items: center;
    color: white;
-   width: 28em;;
+   width: 25em;;
   
 }
 .form_1{
@@ -32,18 +32,18 @@
    align-content: center;
    align-items: center;
    color: white;
-   width: 28em;;
+   width: 24em;;
   
 }
 input{
-    width: 25em;
+    width: 22em;
     height: 50px;
     border: 4px solid skyblue;
     border-radius: 5px;
     outline: none;
 }
 textarea{
-    width: 25em; 
+    width: 22em; 
     border-radius: 5px;
     border: 4px solid skyblue;
     outline: none;
