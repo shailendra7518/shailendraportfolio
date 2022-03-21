@@ -43,6 +43,28 @@ function Projects() {
             />
           </Col>
 
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={"https://www.linkpicture.com/q/Untitled-design_108.png"}
+              isBlog={false}
+              title="Marriott_Bonvoy_clone with backend"
+              description="Marriott Bonvoy is a hotel, resort, and accommodation booking website. and our task to implement backend knowledge in previous project for backend we use mongodb ,express, node.js."
+              link="https://github.com/shailendra7518/personal"
+              site="https://personal-iota-flame.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={"https://www.linkpicture.com/q/Untitled-design-1_22.png"}
+              isBlog={false}
+              title="YouTube clone"
+              description="this project is a part of assignment of daily curriculam and made with help of google youtub api . and this was my solo project and i use HTML ,CSS ,Javascript and local storage only"
+              link="https://github.com/shailendra7518/youtube.github.io"
+              site="https://youtube-github-io.vercel.app/"
+            />
+          </Col>
+
           {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
