@@ -64,6 +64,16 @@ function Projects() {
               site="https://youtube-github-io.vercel.app/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={"https://www.linkpicture.com/q/agoda-screeen.png"}
+              isBlog={false}
+              title="Agoda clone"
+              description="In this project we have tried to make a look alike clone of Agoda Website. With our efforts and the technology stack, that we have learned till now in Unit-5 in Masai School, we were able to clone the front end, integrated it with backend and added similar looks and features.."
+              link="https://github.com/shailendra7518/Agoda-clone.git"
+              site="https://agoda-clone-website.vercel.app/"
+            />
+          </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
