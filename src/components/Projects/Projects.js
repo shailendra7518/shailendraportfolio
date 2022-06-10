@@ -28,7 +28,7 @@ function Projects() {
               title="Purplle-Website-Clone"
               description="This is clone of purplle.com, where we have used HTML, CSS and Javascript to acheive this. In this project we have tried to clone the “Purplle” website. We had build up all our efforts to do our best in this project. As, the Masai School's Mentorship was specifically to build up our skills and we also accordingly implemented all that teachings in our project to look it at its best."
               link="https://github.com/Duwesh/Purplle.com_web_clone"
-              site="https://purplle.vercel.app/"
+              site="https://purpullclone.netlify.app/"
             />
           </Col>
 
@@ -39,7 +39,7 @@ function Projects() {
               title="Marriott_Bonvoy_clone"
               description="Marriott Bonvoy is a hotel, resort, and accommodation booking website. This was a collaborative project built by 5 members of the team and executed in 5 days.Our task was to implement our HTML, CSS, and Advanced JavaScript knowledge which we had learned at Masai. We used this skillset to build a static copy of Marriott Bonvoy along with the responsiveness of the page for different screen sizes and some user interactivity with Advanced JS."
               link="https://github.com/AmbaliyaDhruv/Marriott_Bonvoy_clone.github.io"
-              site="https://masai-marriott-com.vercel.app/"
+              site="https://marriott-bonvoy-clone.netlify.app/"
             />
           </Col>
 
@@ -51,7 +51,7 @@ function Projects() {
               title="Marriott_Bonvoy_clone with backend"
               description="Marriott Bonvoy is a hotel, resort, and accommodation booking website. and our task to implement backend knowledge in previous project for backend we use mongodb ,express, node.js."
               link="https://github.com/shailendra7518/personal"
-              site="https://personal-iota-flame.vercel.app/"
+              site="https://our-marriott-bonvoy.netlify.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -61,7 +61,7 @@ function Projects() {
               title="YouTube clone"
               description="this project is a part of assignment of daily curriculam and made with help of google youtub api . and this was my solo project and i use HTML ,CSS ,Javascript and local storage only"
               link="https://github.com/shailendra7518/youtube.github.io"
-              site="https://youtube-github-io.vercel.app/"
+              site="https://my-youtub-clone.netlify.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -71,7 +71,7 @@ function Projects() {
               title="Agoda clone"
               description="In this project we have tried to make a look alike clone of Agoda Website. With our efforts and the technology stack, that we have learned till now in Unit-5 in Masai School, we were able to clone the front end, integrated it with backend and added similar looks and features.."
               link="https://github.com/shailendra7518/Agoda-clone.git"
-              site="https://agoda-clone-website.vercel.app/"
+              site="https://our-agoda-clone.netlify.app/"
             />
           </Col>
 
